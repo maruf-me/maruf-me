@@ -2,7 +2,7 @@
 
 <h1>I'M MD Maruf Hossain</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=250&height=35&lines=Software+Engineer;Front+End+Developer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=ffffff&vCenter=true&width=250&height=35&lines=Software+Engineer;Front+End+Developer;)
 
 <h3 align="center">A passionate Web/App Developer with 4+ years of experience, skilled in JavaScript, TypeScript, React.js, Next.js, Redux, Vue.js, Webpack/Vite, Yarn/PNPM, and more.</h3>
 
